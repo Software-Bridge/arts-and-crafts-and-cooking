@@ -26,7 +26,7 @@ This recipe makes about 2 gallons of soup, adjust as necessary.
 - Carrots
 - Zuchinni
 - Potatos (Ruesset or White)
-- Cooked Chicken
+- Cooked Chicken 
 - Corn on the Cob or Corn Kernels
 
 **Optional Add Ons**
@@ -46,6 +46,7 @@ This recipe makes about 2 gallons of soup, adjust as necessary.
 - (Optional) Prepare noodles or rice and set aside
 - Chop up a whole large onion or a couple small ones (or more for a bigger soup)
 - Mince garlic
+- Chop carrots, zuchinni and potatos to desired sizes
 
 **Cooking**
 
@@ -60,12 +61,11 @@ This recipe makes about 2 gallons of soup, adjust as necessary.
 - Add in additional fried tortillas
 - Add extras including crumble cheese, cream, noodles and/or rice, and sliced avacados
 
-### Recipe (Longer)
-
-
+### Notes
 
 **Preparing Chicken**
 
+For this recipe I prefer to prepare chicken ahead of time, either to barbeque it an hour or so early, or else I use leftover chicken (say from a roast) for it.  I do prefer the chicken 'holds it's own' in the soup, so I prefer to do a barbeque with some extra flavoring on it.  For example coated in olive oil, salt, pepper, garlic powder and italian seasons
 
 
 #### Notes
