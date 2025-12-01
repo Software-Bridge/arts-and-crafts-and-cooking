@@ -1,23 +1,60 @@
-### Chicken Tortilla Soup
+## Chicken Tortilla Soup
 
-#### Recipe
+Recipe from my wife's Mexican heritage that I've adopted and been working on for some years.  We call it a healing soup. 
 
-Ingredients:
+### Requires
+
+**Hardware**
+
+- Large soup pan, ceramic or metal
+- Immersion blender
+
+**Soup Base**
+
 - Chicken broth or stock
-- Cooked chicken 
 - Onions
 - Salt
 - Pepper
 - Garlic
-- Diced tomatoes
-- Corn tortillas
+- Diced Tomatoes
+- Corn Tortillas (fried)
 
-Optional
+**Soup Contents**
+
+- Carrots
+- Zuchinni
+- Potatos (Ruesset or White)
+- Cooked Chicken
+- Corn on the Cob or Corn Kernels
+
+**Optional Add Ons**
+
 - Avacado
-- Mexican creme
-- Mexican cheese 
+- Mexican Creme
+- Mexican Cheese
+- Noodles or Rice
+- Corn Tortillas (fried)
 
-Immersion Blend
+### Recipe
+
+**Preparation**
+
+
+
+**Cooking**
+
+The following are the steps to put together the soup: 
+
+- Prepare the chicken and set aside
+- Fry the corn tortillas and set aside
+- Cook and blend the soup base
+- Cook the vegetables in the base
+- 
+
+
+#### Notes
+
+
 
 <img width="515"  alt="Screenshot 2025-11-04 at 6 58 49 PM" src="https://github.com/user-attachments/assets/dae02107-f41f-4c1b-afde-ca9a27125fad" />
 
