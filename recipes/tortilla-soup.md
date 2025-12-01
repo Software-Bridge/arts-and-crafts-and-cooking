@@ -49,9 +49,10 @@ This recipe makes about 2 gallons of soup, adjust as necessary.
 
 **Cooking**
 
-- Boil the soup base ingredients until everything is soft, then blend with immersion blender
-- Cook the vegetables in the soup
-- Turn off the heat and add in chicken
+- Boil the soup base ingredients until everything is soft
+- Blend with immersion blender until the base is smooth and consistent
+- Cook the vegetables in the soup until tender
+- Turn off the heat, add in chicken, and let rest for 10+ minutes
 
 **Serving** 
 
@@ -60,6 +61,10 @@ This recipe makes about 2 gallons of soup, adjust as necessary.
 - Add extras including crumble cheese, cream, noodles and/or rice, and sliced avacados
 
 ### Recipe (Longer)
+
+
+
+**Preparing Chicken**
 
 
 
