@@ -2,6 +2,8 @@
 
 Recipe from my wife's Mexican heritage that I've adopted and been working on for some years.  We call it a healing soup. 
 
+This recipe makes about 2 gallons of soup, adjust as necessary.  
+
 ### Requires
 
 **Hardware**
@@ -12,7 +14,7 @@ Recipe from my wife's Mexican heritage that I've adopted and been working on for
 **Soup Base**
 
 - Chicken broth or stock
-- Onions
+- Onions 
 - Salt
 - Pepper
 - Garlic
@@ -31,7 +33,7 @@ Recipe from my wife's Mexican heritage that I've adopted and been working on for
 
 - Avacado
 - Mexican Creme
-- Mexican Cheese
+- Mexican Crumble Cheese
 - Noodles or Rice
 - Corn Tortillas (fried)
 
@@ -42,12 +44,20 @@ Recipe from my wife's Mexican heritage that I've adopted and been working on for
 - Prepare the chicken and set aside
 - Fry the corn tortillas and set aside
 - (Optional) Prepare noodles or rice and set aside
+- Chop up a whole large onion or a couple small ones (or more for a bigger soup)
+- Mince garlic
 
 **Cooking**
 
-- Cook and blend the soup base
-- Cook the vegetables in the base
-- Turn off the heat and add in chicken 
+- Boil the soup base ingredients until everything is soft, then blend with immersion blender
+- Cook the vegetables in the soup
+- Turn off the heat and add in chicken
+
+**Serving** 
+
+- Serve soup in bowl
+- Add in additional fried tortillas
+- Add extras including crumble cheese, cream, noodles and/or rice, and sliced avacados
 
 ### Recipe (Longer)
 
