@@ -35,21 +35,22 @@ Recipe from my wife's Mexican heritage that I've adopted and been working on for
 - Noodles or Rice
 - Corn Tortillas (fried)
 
-### Recipe
+### Recipe (Short)
 
 **Preparation**
 
-
+- Prepare the chicken and set aside
+- Fry the corn tortillas and set aside
+- (Optional) Prepare noodles or rice and set aside
 
 **Cooking**
 
-The following are the steps to put together the soup: 
-
-- Prepare the chicken and set aside
-- Fry the corn tortillas and set aside
 - Cook and blend the soup base
 - Cook the vegetables in the base
-- 
+- Turn off the heat and add in chicken 
+
+### Recipe (Longer)
+
 
 
 #### Notes
