@@ -18,8 +18,9 @@ This recipe makes about 2 gallons of soup, adjust as necessary.
 - Salt
 - Pepper
 - Garlic
-- Diced Tomatoes
-- Corn Tortillas (fried)
+- ~1 Can Strained Diced Tomatoes
+- ~4 Medium Corn Corn Tortillas (fried)
+- Corn/Canola oil
 
 **Soup Contents**
 
@@ -50,8 +51,9 @@ This recipe makes about 2 gallons of soup, adjust as necessary.
 
 **Cooking**
 
-- Boil the soup base ingredients until everything is soft
+- Boil all the soup base ingredients together until everything is soft
 - Blend with immersion blender until the base is smooth and consistent
+- If base isn't desired consistency, either add water to thin, or another tortilla to thicken
 - Cook the vegetables in the soup until tender
 - Turn off the heat, add in chicken, and let rest for 10+ minutes
 
@@ -65,7 +67,18 @@ This recipe makes about 2 gallons of soup, adjust as necessary.
 
 **Preparing Chicken**
 
-For this recipe I prefer to prepare chicken ahead of time, either to barbeque it an hour or so early, or else I use leftover chicken (say from a roast) for it.  I do prefer the chicken 'holds it's own' in the soup, so I prefer to do a barbeque with some extra flavoring on it.  For example coated in olive oil, salt, pepper, garlic powder and italian seasons
+For this recipe I prefer to prepare chicken ahead of time, either to barbeque it an hour or so early, or else I use leftover chicken (say from a roast) for it.  I do prefer the chicken 'holds it's own' in the soup, so I prefer to do a barbeque with some extra flavoring on it.  
+
+For example coated in olive oil, salt, pepper, garlic powder and italian seasons.  Otherwise if I have some leftover chicken I might saute it in a skillet with the same ingredients for a minite or so to give it some extra flavor and texture. 
+
+**Fried Tortilas**
+
+Generally I fry around eight medium corn tortillas in a small saucepan with canola oil, one at a time, resting on a plate with a paper towel to absorb some of the oil. Usually I put about four into the soup base, but will add more if the base seems too thin.  Break them up before putting into the base. The remaining fried tortillas are added when the soup is served.
+
+I have used store brought tortillas as a substutite (as frying is always a mess) and have not been satisfied, particularly witht the extra salt on most chips.  If I could find some good fried but unsalted chips I might use them. 
+
+**Soup Base**
+
 
 
 #### Notes
