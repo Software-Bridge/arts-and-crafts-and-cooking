@@ -95,6 +95,8 @@ I like to add noodles, but every time I've included them in the cooking process 
 
 So what I do now is pour about a cup of soup into a bowl, and let that completely cool before I make the noodles, which I add to the cold soup in the bowl (and further drain off most of the liquid).  This way the noodles don't stick together and can be saved for later.  When done this way, I serve the noodles with the other extras after the soup is done. 
 
+I do prefer smaller noodles but really any sort works.  Probably Mexican products like fideo and other mini-noodles are more traditional, but I've used orzo, regular small elbow noodles, etc.
+
 ### Images
 
 **Soup Base Before Blending**
