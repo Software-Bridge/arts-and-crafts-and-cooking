@@ -13,7 +13,7 @@ This recipe makes about 2 gallons of soup, adjust as necessary.
 
 **Soup Base**
 
-- Chicken broth or stock
+- Chicken broth or stock (and/or water with chicken boullion)
 - Onions 
 - Salt
 - Pepper
