@@ -105,7 +105,7 @@ So what I do now is pour about a cup of soup into a bowl, and let that completel
 
 <img width="515"  alt="Screenshot 2025-11-04 at 6 58 49 PM" src="https://github.com/user-attachments/assets/49f8b296-077e-4700-a48f-9593c741ef48" />
 
-**Partially Served*
+**Partially Served With Tortillas**
 
 <img width="515" alt="Screenshot 2025-11-04 at 6 58 49 PM" src="https://github.com/user-attachments/assets/2d55e748-8c7e-45eb-99a8-2abf77c95d6b" />
 
