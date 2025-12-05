@@ -73,7 +73,7 @@ This recipe makes about 2 gallons of soup, adjust as necessary.
 
 For this recipe I prefer to prepare chicken ahead of time, either to barbeque it an hour or so early, or else I use leftover chicken (say from a roast) for it.  I do prefer the chicken 'holds it's own' in the soup, so I prefer to do a barbeque with some extra flavoring on it.  
 
-For example coated in olive oil, salt, pepper, garlic powder and italian seasons.  Otherwise if I have some leftover chicken I might saute it in a skillet with the same ingredients for a minite or so to give it some extra flavor and texture. 
+For example coated in olive oil, salt, pepper, garlic powder and italian seasoning.  Otherwise if I have some leftover chicken I might saute it in a skillet with the same ingredients for a minite or so to give it some extra flavor and texture. 
 
 **Fried Tortilas**
 
