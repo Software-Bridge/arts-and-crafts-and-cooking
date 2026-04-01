@@ -1,18 +1,29 @@
 ### Enchilada Bake 1
 
-Enchilada components layered as a bake
+Enchilada components layered as a bake.  
 
-Ingredients:
-- Corn and possibly flour tortillas
-- Enchilada Sauce
-- Chicken broth/stock
-- Cream of chicken
-- Black beans
+Ingredients
+
+Layers
+- Corn and possibly some flour tortillas
+- Black beans (1 can) with minced garlic
 - Cooked chicken 
-- Corn kernels
-- Mexican cheese
-- Mixed cheddar cheese
-- Havarti cheese
+- Frozen sweet corn kernels (a few handfulls)
+- Cheeses: Mexican, mixed cheddar, Havarti
+- (Optional) Chille Rienos 
+
+Sauce
+- Las Palmas Green Enchilada Sauce (~2/3 large can)
+- Chicken broth/stock (~ a cup)
+- Cream of chicken (~1 1/2 cans)
+
+There's several prep steps that can be done in parallel before a final assembly of the bake before the oven:
+- Prepare blended sauce
+- Prepare chicken
+- Prepare chile rienos
+- Prepare beans
+
+Preparing Sauce
 
 - ![IMG_1235](https://github.com/user-attachments/assets/75bf3e54-b2ca-45f9-897d-0381e677ccf6)
 
